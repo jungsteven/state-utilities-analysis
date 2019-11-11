@@ -1,14 +1,3 @@
-https://docs.google.com/presentation/d/1Q1UkSETDlMu9iDFGFqwt2XWSiNNjflF-l-t6Aw0nhvo/edit?usp=sharing
-
-Project Title:
-California Renewable Electricity
-
-- Team Members:
-  Charles Grinstead
-  Chris Weinreich
-  Eric Jung
-  Steven Jung
-  Tyler Locke
 
 - Project Description/Outline:
   Analyze 3 years of electricity usage and weather patterns for California to see how it has changed.
